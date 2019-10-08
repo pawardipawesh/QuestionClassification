@@ -1,5 +1,5 @@
 # QuestionClassification
-Question classification using Weka and Java
+Question classification using Weka and Java (2017)
 
 This needs 
 - opennlp-tools-1.8.4.jar
